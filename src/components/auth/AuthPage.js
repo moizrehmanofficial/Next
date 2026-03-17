@@ -307,7 +307,8 @@ export default function AuthPage() {
               <div style={{ fontSize: 11, color: "var(--cyan)", fontFamily: "var(--fm)", fontWeight: 700, marginBottom: 4 }}>DEMO CREDENTIALS</div>
               <div style={{ fontSize: 11, color: "var(--c2)", fontFamily: "var(--fm)", lineHeight: 1.7 }}>
                 User: any email / any password<br />
-                Admin: admin@nextrade.com / admin123
+                User: user@gmail.com / password123
+                {/* Admin: admin@nextrade.com / admin123 */}
               </div>
             </div>
           </>
